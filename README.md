@@ -1,33 +1,35 @@
 - 👋 Hi, I’m **Suraj Singh Rana** (@surajs-rana)  
-- 👀 I’m interested in **software development, open-source projects, and exploring new technologies**.  
-- 🌱 I’m currently learning **<insert what you're learning, e.g., Python, JavaScript, React, Machine Learning, etc.>**.  
-- 💞️ I’m looking to collaborate on **exciting projects that solve real-world problems or contribute to open-source communities**.  
+- 👀 I’m interested in **backend development with Python FastAPI and frontend development with Angular**.  
+- 🌱 I’m currently learning **Python FastAPI for building APIs and Angular for creating dynamic web applications**.  
+- 💞️ I’m looking to collaborate on **open-source projects, beginner-friendly initiatives, or anything related to FastAPI and Angular**.  
 - 📫 How to reach me:  
-  - **Email**: <your-email@example.com>  
-  - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-  - **Twitter**: [@your-handle](https://twitter.com/your-handle)  
+  - **Email**: <surajs.rana0503@gmail.com>  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!** (or replace with your own fun fact)  
+- ⚡ Fun fact: **I once wrote a Python script to automate my daily tasks!** (or replace with your own fun fact)  
 
 ---
 
 ### 🛠️ Technologies & Tools  
-Here are some of the technologies and tools I work with:  
-- **Languages**: <e.g., Python, JavaScript, Java, C++, etc.>  
-- **Frameworks/Libraries**: <e.g., React, Node.js, Flask, etc.>  
-- **Tools**: <e.g., Git, Docker, VS Code, etc.>  
-- **Databases**: <e.g., MySQL, MongoDB, PostgreSQL, etc.>  
+Here are some of the technologies and tools I’m currently working with:  
+- **Languages**: Python, TypeScript, JavaScript  
+- **Backend**: FastAPI, REST APIs, SQLAlchemy  
+- **Frontend**: Angular, HTML, CSS, Bootstrap  
+- **Tools**: Git, VS Code, Postman  
+- **Databases**: SQLite, PostgreSQL  
 
 ---
 
-### 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajs-rana&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajs-rana&layout=compact&theme=radical)  
+### 📚 Learning Journey  
+As a self-taught developer, I’m passionate about building projects and expanding my knowledge. Here’s what I’ve been focusing on:  
+- **FastAPI**: Learning to build fast and scalable APIs with Python.  
+- **Angular**: Exploring frontend development to create interactive and responsive web applications.  
+- **Version Control**: Practicing Git and GitHub for collaborative development.  
 
 ---
+
 
 ### 🌟 Let's Connect!  
-I’m always open to connecting with like-minded individuals, collaborating on projects, or just having a chat. Feel free to reach out!  
+I’m eager to connect with other developers, learn from the community, and contribute to meaningful projects. Feel free to reach out if you’d like to collaborate or chat about tech!  
 
 <!---
 surajs-rana/surajs-rana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
